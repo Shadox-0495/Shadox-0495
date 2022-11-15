@@ -2,7 +2,7 @@
 I am a Full-stack web developer, mostly using Javascript and Typescript but also exploring the other frameworks like Angular and Vue.
 In the backend mostly using PHP and NodeJS.
 
-## Language and tools
+## :computer: Language and tools
 
 <ul>
    <li>asd1</li>
