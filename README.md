@@ -10,7 +10,7 @@ In the backend mostly using PHP and NodeJS.
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="left" alt="JQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<br>
+<br/>
 <!--
 **Shadox-0495/Shadox-0495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
