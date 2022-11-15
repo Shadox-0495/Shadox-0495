@@ -4,10 +4,7 @@ In the backend mostly using PHP and NodeJS.
 
 ## :computer: Language and tools
 
-<ul>
-   <li>Javascript</li>
-   <li>PHP</li>
-</ul>
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 <!--
 **Shadox-0495/Shadox-0495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
