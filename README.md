@@ -2,6 +2,13 @@
 I am a Full-stack web developer, mostly using Javascript and Typescript but also exploring the other frameworks like Angular and Vue.
 In the backend mostly using PHP and NodeJS.
 
+## Language and tools
+
+<ul>
+   <li>asd1</li>
+   <li>asd2</li>
+</ul>
+
 <!--
 **Shadox-0495/Shadox-0495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
