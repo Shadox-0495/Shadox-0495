@@ -5,7 +5,7 @@ In the backend mostly using PHP and NodeJS.
 ## :computer: Language and tools
 
 <ul style='list-style: none;'>
-   <li>Javascript</li>
+   <li style="list-style: none;">Javascript</li>
    <li>PHP</li>
 </ul>
 
