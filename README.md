@@ -18,6 +18,8 @@ In the backend mostly using PHP and NodeJS.
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img align="left" alt="SQLServer" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 
+<br>
+
 <!--
 **Shadox-0495/Shadox-0495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
