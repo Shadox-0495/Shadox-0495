@@ -3,7 +3,7 @@ I am a Full-stack web developer, mostly using Javascript and Typescript but also
 In the backend mostly using PHP and NodeJS.
 
 ## :email: Reach me out
-If you want to get in touch, talk to me about a project collaboration or just to say hi, use the following links or send an email to saul.alberto.vargas@gmail.com.
+<!--If you want to get in touch, talk to me about a project collaboration or just to say hi, use the following links or send an email to saul.alberto.vargas@gmail.com.-->
 <br />
 <br />
 [![Gmail Badge](https://img.shields.io/badge/-saul.alberto.vargas-important?style=flat&logo=gmail&logoColor=white)](mailto:saul.alberto.vargas@gmail.com)
