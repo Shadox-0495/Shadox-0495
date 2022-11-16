@@ -2,7 +2,7 @@
 I am a Full-stack web developer, mostly using Javascript and Typescript but also exploring the other frameworks like Angular and Vue.
 In the backend mostly using PHP and NodeJS.
 
-## :email: Reach me out
+### :email: Reach me out
 
 <!--If you want to get in touch, talk to me about a project collaboration or just to say hi, use the following links or send an email to saul.alberto.vargas@gmail.com.-->
 
@@ -12,7 +12,7 @@ In the backend mostly using PHP and NodeJS.
 <br />
 <br />
 
-## :chart_with_upwards_trend: Stats
+### :chart_with_upwards_trend: Stats
 <div align="center">
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadox-0495&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,7 +22,7 @@ In the backend mostly using PHP and NodeJS.
   
 </div>
 
-## :computer: Language and tools
+### :computer: Language and tools
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="left" alt="VScode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
