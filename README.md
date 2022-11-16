@@ -6,7 +6,7 @@ In the backend mostly using PHP and NodeJS.
 If you want to get in touch, talk to me about a project collaboration or just to say hi, use the following links or send an email to saul.alberto.vargas@gmail.com.
 <br>
 [![Gmail Badge](https://img.shields.io/badge/-saul.alberto.vargas-important?style=flat&logo=gmail&logoColor=white)](mailto:saul.alberto.vargas@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Saul%20Vargas-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-vargas-39216519b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Saul%20Vargas-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-vargas-39216519b/)
 <br>
 <div align="center">
   <a href="mailto:saul.alberto.vargas@gmail.com" target="_blank">
