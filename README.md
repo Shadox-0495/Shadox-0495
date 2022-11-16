@@ -2,20 +2,17 @@
 I am a Full-stack web developer, mostly using Javascript and Typescript but also exploring the other frameworks like Angular and Vue.
 In the backend mostly using PHP and NodeJS.
 
-### :email: Reach me out
+### :mailbox: Reach me out
 
 <!--If you want to get in touch, talk to me about a project collaboration or just to say hi, use the following links or send an email to saul.alberto.vargas@gmail.com.-->
 
 [![Gmail Badge](https://img.shields.io/badge/-saul.alberto.vargas-important?style=flat&logo=gmail&logoColor=white)](mailto:saul.alberto.vargas@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Saul%20Vargas-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-vargas-39216519b/)
 
-<br />
-<br />
-
-### Code stats
+### :computer: Coding stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadox-0495&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-### :chart_with_upwards_trend: Github stats
+### :bar_chart: Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadox-0495&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
     
 ### :computer: Language and tools
