@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Saul Vargas
-I am a Full-stack web developer, mostly using Javascript and Typescript but also exploring the other frameworks like Angular and Vue.
+I am a Full-stack web developer, mostly using Javascript and Typescript but also exploring the other frameworks like Angular and Vue.<br />
 In the backend mostly using PHP and NodeJS.
 
 ### :mailbox: Reach me out
