@@ -20,7 +20,7 @@ If you want to get in touch, talk to me about a project collaboration or just to
   </a>
 </div>
 
-<div>
+
 ## :computer: Language and tools
 
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -38,9 +38,9 @@ If you want to get in touch, talk to me about a project collaboration or just to
 <img align="left" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img align="left" alt="SQLServer" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-</div>
 
-<div>
+
+
 ## :chart_with_upwards_trend: Stats
 <table>
  <tbody>
@@ -58,5 +58,5 @@ If you want to get in touch, talk to me about a project collaboration or just to
   </tr>
   </tbody>
 </table>
-</div>
+
 
