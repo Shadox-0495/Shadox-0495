@@ -9,7 +9,7 @@ In the backend mostly using PHP and NodeJS.
 [![Gmail Badge](https://img.shields.io/badge/-saul.alberto.vargas-important?style=flat&logo=gmail&logoColor=white)](mailto:saul.alberto.vargas@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Saul%20Vargas-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-vargas-39216519b/)
 
-### :computer: Coding stats
+### :mortar_board: Coding stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadox-0495&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :bar_chart: Github stats
