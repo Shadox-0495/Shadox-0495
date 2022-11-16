@@ -59,6 +59,6 @@ Here are some ideas to get you started:
    <img alt="GMail" width="50px" style="padding-right:10px;" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png">
   </a>
   <a href="https://www.linkedin.com/in/saul-vargas-39216519b/" target="_blank">
-   <img alt="LinkedIn" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png">
+   <img alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png">
   </a>
 </div>
