@@ -5,6 +5,8 @@ In the backend mostly using PHP and NodeJS.
 ## :email: Reach me out
 If you want to get in touch, talk to me about a project collaboration or just to say hi, use the following links or send an email to saul.alberto.vargas@gmail.com.
 <br>
+[![Gmail Badge](https://img.shields.io/badge/-gmail-important?style=flat&logo=gmail&logoColor=white)](mailto:saul.alberto.vargas@gmail.com)
+<br>
 <div align="center">
   <a href="mailto:saul.alberto.vargas@gmail.com" target="_blank">
    <img 
