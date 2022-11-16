@@ -53,3 +53,9 @@ Here are some ideas to get you started:
   </tbody>
 </table>
  
+## :email: Reach me out
+<div align="center">
+  <a href="mailto:saul.alberto.vargas@gmail.com" target="_blank">
+   <img alt="GMail" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  </a>
+</div>
