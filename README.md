@@ -36,10 +36,14 @@ Here are some ideas to get you started:
 -->
 
 ## :chart_with_upwards_trend: Stats
-<div style="display:flex;flex-direction:row;flex-wrap:wrap;" align="center">
+<div align="left">
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadox-0495&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ </div>
 
+<div align="left">
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadox-0495&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
  
  </div>
