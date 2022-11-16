@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 ## :email: Reach me out
 <div align="center">
   <a href="mailto:saul.alberto.vargas@gmail.com" target="_blank">
-   <img alt="GMail" width="30px" style="padding-right:10px;" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png">
+   <img alt="GMail" width="50px" style="padding-right:10px;" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png">
   </a>
 </div>
