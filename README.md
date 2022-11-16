@@ -12,16 +12,12 @@ In the backend mostly using PHP and NodeJS.
 <br />
 <br />
 
-### :chart_with_upwards_trend: Stats
-<div align="center">
-    
+### Code stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadox-0495&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+### :chart_with_upwards_trend: Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadox-0495&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
     
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadox-0495&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
 ### :computer: Language and tools
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="left" alt="VScode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
