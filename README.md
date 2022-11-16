@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 </table>
  
 ## :email: Reach me out
+If you want to get in touch, talk to me about a project collaboration or just to say hi, use the following links or send an email to saul.alberto.vargas@gmail.com.
+<br>
 <div align="center">
   <a href="mailto:saul.alberto.vargas@gmail.com" target="_blank">
    <img alt="GMail" width="50px" style="padding-right:10px;" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png">
