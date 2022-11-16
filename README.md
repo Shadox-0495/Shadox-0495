@@ -2,6 +2,18 @@
 I am a Full-stack web developer, mostly using Javascript and Typescript but also exploring the other frameworks like Angular and Vue.
 In the backend mostly using PHP and NodeJS.
 
+## :email: Reach me out
+If you want to get in touch, talk to me about a project collaboration or just to say hi, use the following links or send an email to saul.alberto.vargas@gmail.com.
+<br>
+<div align="center">
+  <a href="mailto:saul.alberto.vargas@gmail.com" target="_blank">
+   <img alt="GMail" width="50px" style="padding-right:10px;" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png">
+  </a>
+  <a href="https://www.linkedin.com/in/saul-vargas-39216519b/" target="_blank">
+   <img alt="LinkedIn" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png">
+  </a>
+</div>
+
 ## :computer: Language and tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -53,14 +65,4 @@ Here are some ideas to get you started:
   </tbody>
 </table>
  
-## :email: Reach me out
-If you want to get in touch, talk to me about a project collaboration or just to say hi, use the following links or send an email to saul.alberto.vargas@gmail.com.
-<br>
-<div align="center">
-  <a href="mailto:saul.alberto.vargas@gmail.com" target="_blank">
-   <img alt="GMail" width="50px" style="padding-right:10px;" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png">
-  </a>
-  <a href="https://www.linkedin.com/in/saul-vargas-39216519b/" target="_blank">
-   <img alt="LinkedIn" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png">
-  </a>
-</div>
+
