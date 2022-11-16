@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 -->
 
 ## :chart_with_upwards_trend: Stats
-<div align="center">
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;" align="center">
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadox-0495&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
