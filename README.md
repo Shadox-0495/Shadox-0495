@@ -11,7 +11,7 @@ In the backend mostly using PHP and NodeJS.
 
 ### :mortar_board: Coding stats
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shadox-0495&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shadox-0495&show_icons=true&theme=algolia">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadox-0495&layout=compact&show_icons=true&theme=algolia">
 </div>
 <!--
