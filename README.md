@@ -14,12 +14,6 @@ In the backend mostly using PHP and NodeJS.
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shadox-0495&show_icons=true&theme=algolia&include_all_commits=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadox-0495&layout=compact&show_icons=true&theme=algolia">
 </div>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadox-0495&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-### :bar_chart: Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadox-0495&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
--->
     
 ### :computer: Language and tools
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
