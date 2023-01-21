@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Saul Vargas
-I am a experienced web developer with 5+ years of experience. Skilled in Javascript, Typescript, Webpack, Node.js, CSS, HTML, PHP, SQL, and design tools like Figma. Passionate about creating exceptional digital experiences and staying on the cutting edge of web development trends. Proven track record of delivering high-quality, reliable, and scalable web applications on time and within budget.
+I am an experienced web developer with 5+ years of experience. Skilled in Javascript, Typescript, Webpack, Node.js, CSS, HTML, PHP, SQL, and design tools like Figma. Passionate about creating exceptional digital experiences and staying on the cutting edge of web development trends. Proven track record of delivering high-quality, reliable, and scalable web applications on time and within budget.
 
 ### :mailbox: Reach me out
 
